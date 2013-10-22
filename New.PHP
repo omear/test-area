@@ -1,3 +1,5 @@
 <?php 
 
-function __autoload() {};
+function autoload() {};
+
+Echo 'Omer'
